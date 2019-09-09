@@ -10,9 +10,7 @@ huiyup 的个人博客
 
 ### 最新
 
-* [JS作用域](http://with.wang:8080/articles/2019/09/05/1567650662695.html)
-* [JS基本组成](http://with.wang:8080/articles/2019/09/05/1567644714629.html)
-* [世界，你好！](http://with.wang:8080/hello-solo)
+* [世界，你好！](http://with.wang/hello-solo)
 
 
 
